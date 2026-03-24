@@ -33,7 +33,7 @@ AIAgent员工 会自动将 daily 中的记录进行分析、提取、归类：
 **示例:**
 /数据库
 /数据库/case
-/数据库/case/仪表盘数据库冷备导致主从延迟告警.md
+/数据库/case/仪表盘数据库冷备导致主从延迟.md
 /数据库/knowledge
 /数据库/knowledge/mysql主备架构.md
 
