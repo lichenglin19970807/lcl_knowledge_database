@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce5b5f86-14e9-49af-b1d5-f4c9d02f7560" name="更改" comment="new raw">
-      <change afterPath="$PROJECT_DIR$/raw/主力阵容-雪影传说队.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ce5b5f86-14e9-49af-b1d5-f4c9d02f7560" name="更改" comment="raw">
+      <change afterPath="$PROJECT_DIR$/raw/雪影传说队-处理高威胁目标-音速犬.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +16,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dev/luoke_s1" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -102,7 +101,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新框架" />
     <MESSAGE value="new raw" />
-    <option name="LAST_COMMIT_MESSAGE" value="new raw" />
+    <MESSAGE value="raw" />
+    <option name="LAST_COMMIT_MESSAGE" value="raw" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
