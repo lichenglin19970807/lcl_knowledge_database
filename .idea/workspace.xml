@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce5b5f86-14e9-49af-b1d5-f4c9d02f7560" name="更改" comment="raw">
-      <change afterPath="$PROJECT_DIR$/raw/雪影传说队-处理高威胁目标-音速犬.md" afterDir="false" />
+    <list default="true" id="ce5b5f86-14e9-49af-b1d5-f4c9d02f7560" name="更改" comment="case">
+      <change afterPath="$PROJECT_DIR$/raw/雪影传说队-处理高威胁目标-黑猫巫师.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +103,8 @@
     <MESSAGE value="新框架" />
     <MESSAGE value="new raw" />
     <MESSAGE value="raw" />
-    <option name="LAST_COMMIT_MESSAGE" value="raw" />
+    <MESSAGE value="case" />
+    <option name="LAST_COMMIT_MESSAGE" value="case" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
