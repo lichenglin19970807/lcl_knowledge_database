@@ -1,115 +1,86 @@
-# LLM Wiki - 基于 Obsidian 的知识管理系统
+# 洛克王国世界 PvP 知识库
 
-一个基于 Andrej Karpathy 的 [LLM Wiki 模式](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) 实现的 Obsidian 知识库，利用 LLM 维护可复利的个人知识层。
+> **分支**: `dev/luoke_s1`
+> **用途**: 专门为《洛克王国世界》PvP 对战服务的知识管理系统
 
-## ✨ 核心理念
+基于 Obsidian + LLM 的知识库框架，本分支**所有内容均围绕洛克王国世界 PvP 对战**展开。
 
-传统 Wiki 失败的原因是维护成本太高——人类不擅长处理繁琐的交叉引用、一致性检查和内容更新。而 LLM 恰好擅长这些"记账"工作。
+## 🎯 分支定位
 
-本项目将知识管理分为三层：
-- **原始资料层**（`raw/`）：不可变的事实来源
-- **知识层**（`wiki/`）：LLM 维护的结构化知识网络
-- **配置层**（`TheSchema.md`）：定义系统规则和工作流
+这是一个垂直领域的对战知识库，服务于：
+- 宠物技能/特性/种族值数据整理
+- 阵容搭配与战术分析
+- 版本更新追踪与环境影响评估
+- 对战录像复盘与经验沉淀
 
-## 🎯 核心特性
-
-- **持久化知识积累**：Wiki 是可复利的资产，而非每次重新推导
-- **自动化维护**：LLM 处理交叉引用、一致性检查、内容更新
-- **结构化组织**：按来源、实体、概念、比较、总览分类管理
-- **可追溯性**：完整的操作日志和来源引用
-- **Obsidian 原生**：充分利用双向链接、标签、图谱等功能
-
-## 📁 目录结构
+## 📁 目录结构（PvP 定制）
 
 ```
 .
 ├── raw/                    # 原始资料（只读）
-│   ├── papers/            # 论文、文章
-│   ├── books/             # 书籍摘录
-│   └── media/             # 图片、视频等
+│   ├── patches/           # 版本更新公告/补丁日志
+│   ├── replays/           # 对战录像/截图
+│   └── data/             # 原始数值数据（种族表、技能表等）
 │
 ├── wiki/                   # 知识层（LLM 维护）
 │   ├── sources/           # 来源摘要页
-│   ├── entities/          # 实体页（人物、项目等）
-│   ├── concepts/          # 概念页（方法、理论等）
-│   ├── comparisons/       # 比较分析页
-│   ├── overview/          # 总览综合页
+│   ├── entities/          # 实体页（宠物、技能、道具等）
+│   ├── concepts/          # 概念页（战术、阵容套路等）
+│   ├── comparisons/       # 对比分析页（宠物对比、阵容对比等）
+│   ├── overview/          # 总览综合页（环境报告、Tier List 等）
 │   ├── index.md           # 内容索引
 │   └── log.md             # 操作日志
 │
-├── Attachments/           # 图片资源
-├── TheSchema.md           # 系统配置文档
+├── Attachments/           # 图片资源（技能图标、宠物立绘、截图等）
+├── TheSchema.md           # Schema 定义与工作流规则
 └── README.md              # 本文档
 ```
 
-## 🎨 框架总览
-
-![Pasted image 20260410195644.png](Attachments/Pasted%20image%2020260410195644.png)
-
-系统通过三层架构实现知识的持续积累和复利增长。
-
-## 🏗️ Architecture · 三种文件类型
-
-![Pasted image 20260410195715.png](Attachments/Pasted%20image%2020260410195715.png)
-
-- **Raw Sources**：原始资料，不可变的事实来源
-- **Wiki Pages**：LLM 生成和维护的结构化知识页面
-- **Schema**：系统配置，定义工作流和规则
-
-## 🔄 Operations · 三个日常操作
-
-![Pasted image 20260410195804.png](Attachments/Pasted%20image%2020260410195804.png)
+## 🔄 日常操作
 
 ### 1. Ingest（导入）
-添加新资料到 `raw/`，LLM 阅读并：
+添加新资料到 `raw/`（版本公告、对战截图、数据表等），LLM 阅读并：
 - 创建来源摘要页
-- 更新相关实体/概念页
+- 更新相关宠物/技能/战术页
 - 维护交叉引用
 - 记录到操作日志
 
 ### 2. Query（查询）
 向 Wiki 提问，LLM：
-- 搜索相关页面
+- 搜索相关页面（如"XX宠物怎么打YY阵容？"）
 - 综合回答并附上引用
-- 可选：将有价值的回答写回为新页面
+- 可选：将有价值的分析写回为新页面
 
 ### 3. Lint（检查）
 定期审计 Wiki 健康度：
-- 发现矛盾和过时内容
+- 发现版本更新导致的过时数据
 - 识别孤立页面
 - 建议合并/拆分
 - 补充缺失的交叉引用
 
-## 🛠️ 辅助工具
-
-![Pasted image 20260410195828.png](Attachments/Pasted%20image%2020260410195828.png)
-
-- **index.md**：按类别组织的内容目录，帮助 LLM 快速定位
-- **log.md**：时间序列的操作记录，追溯知识演化
-- **Search**：Obsidian 的全文搜索和标签系统
-
 ## 💡 使用建议
 1. **保持原始资料不变**：`raw/` 目录只添加不修改
-2. **让 LLM 处理繁琐工作**：交叉引用、格式统一、一致性检查
-3. **定期 Lint**：保持 Wiki 健康，防止知识腐化
+2. **让 LLM 处理繁琐工作**：交叉引用、格式统一、数据一致性检查
+3. **版本更新后及时 Ingest**：保持数据时效性，防止知识腐化
+4. **定期产出环境报告**：基于 wiki 数据生成 Tier List 和环境综述
 
 ```
    # 导入新资料
-   "请基于 raw/xxx.pdf 进行 Ingest"
+   "请基于 raw/patch_v1.2.md 的更新内容进行 Ingest"
    
    # 查询知识
-   "XXX 和 YYY 有什么区别？"
+   "当前环境克制火系的最佳宠物有哪些？"
    
    # 健康检查
-   "请对 wiki 做一次 Lint"
-   ```
+   "请对 wiki 做一次 Lint，重点检查种族值数据是否与最新版本一致"
+```
 
 ## 📖 页面类型说明
 
 | 类型 | 路径 | 用途 |
 |------|------|------|
-| Source Summary | `wiki/sources/` | 单个来源的摘要和要点 |
-| Entity Page | `wiki/entities/` | 人物、书籍、项目等实体 |
-| Concept Page | `wiki/concepts/` | 方法、理论、模型等概念 |
-| Comparison | `wiki/comparisons/` | 对比分析 |
-| Overview | `wiki/overview/` | 主题综述和总览 |
+| Source Summary | `wiki/sources/` | 版本公告、数据来源的摘要 |
+| Entity Page | `wiki/entities/` | 宠物、技能、道具等实体 |
+| Concept Page | `wiki/concepts/` | 战术思路、阵容套路等概念 |
+| Comparison | `wiki/comparisons/` | 宠物对比、阵容优劣对比等 |
+| Overview | `wiki/overview/` | 环境报告、Tier List、赛季总结等 |
