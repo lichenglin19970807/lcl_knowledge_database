@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce5b5f86-14e9-49af-b1d5-f4c9d02f7560" name="更改" comment="change">
-      <change afterPath="$PROJECT_DIR$/raw/雪影传说队-vs星陨队.md" afterDir="false" />
+    <list default="true" id="ce5b5f86-14e9-49af-b1d5-f4c9d02f7560" name="更改" comment="打星陨队">
+      <change afterPath="$PROJECT_DIR$/raw/雪影传说队-小众变态对局经验.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw/主力阵容-雪影传说队.md" beforeDir="false" afterPath="$PROJECT_DIR$/raw/主力阵容-雪影传说队.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +107,8 @@
     <MESSAGE value="raw" />
     <MESSAGE value="case" />
     <MESSAGE value="change" />
-    <option name="LAST_COMMIT_MESSAGE" value="change" />
+    <MESSAGE value="打星陨队" />
+    <option name="LAST_COMMIT_MESSAGE" value="打星陨队" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
