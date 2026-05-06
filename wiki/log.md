@@ -8,3 +8,4 @@
 ## [2026-05-06] ingest | raw/# 雪影传说队-处理高威胁目标-白金独角兽.md → wiki/sources/来源_雪影vs白金独角兽.md (+ 1 concept + 1 entity)
 ## [2026-05-06] update | 音速犬对阵策略补充 Case3（海枝枝捉杀风险+首发翠顶替代方案）
 ## [2026-05-06] ingest | raw/雪影传说队-处理高威胁目标-恶魔狼.md → wiki/sources/来源_雪影vs恶魔狼.md (+ 1 concept + 1 entity)
+## [2026-05-06] ingest | raw/雪影传说队-vs星陨队.md → wiki/sources/来源_雪影vs星陨队.md (+ 1 concept + 1 entity)
