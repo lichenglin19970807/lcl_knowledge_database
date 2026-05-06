@@ -2,7 +2,7 @@
 type: concept
 tags: [对阵策略, 雪影传说队, 高威胁目标, 白金独角兽]
 sources:
-  - "raw/# 雪影传说队-处理高威胁目标-白金独角兽.md"
+  - "raw/雪影传说队-处理高威胁目标-白金独角兽.md"
 related:
   - "[[entities/宠物_白金独角兽]]"
   - "[[entities/宠物_雪影娃娃]]"
