@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="ce5b5f86-14e9-49af-b1d5-f4c9d02f7560" name="更改" comment="新的笔记">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wiki/entities/宠物_圣剑-X.md" beforeDir="false" afterPath="$PROJECT_DIR$/wiki/entities/宠物_圣剑-X.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wiki/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/wiki/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wiki/log.md" beforeDir="false" afterPath="$PROJECT_DIR$/wiki/log.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wiki/overview/总览_雪影传说队.md" beforeDir="false" afterPath="$PROJECT_DIR$/wiki/overview/总览_雪影传说队.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
