@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce5b5f86-14e9-49af-b1d5-f4c9d02f7560" name="更改" comment="新的笔记">
-      <change afterPath="$PROJECT_DIR$/raw/pvp战术概念.md" afterDir="false" />
+    <list default="true" id="ce5b5f86-14e9-49af-b1d5-f4c9d02f7560" name="更改" comment="pvp战术概念">
+      <change afterPath="$PROJECT_DIR$/raw/联攻-非冗余战术.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +116,8 @@
     <MESSAGE value="change" />
     <MESSAGE value="打星陨队" />
     <MESSAGE value="新的笔记" />
-    <option name="LAST_COMMIT_MESSAGE" value="新的笔记" />
+    <MESSAGE value="pvp战术概念" />
+    <option name="LAST_COMMIT_MESSAGE" value="pvp战术概念" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
