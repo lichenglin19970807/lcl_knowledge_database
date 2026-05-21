@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "f509461e9be8a7b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "73ab32400f4c3572",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1593bc643705386",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f81e142318e16a1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd1eba41d0cc2141",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0c3972040b7eab6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "86ab71c56e92b2d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "1632857b69f9e755",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "16f7bb036397a1c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e133bd9109f1c14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f42573acf3a5941d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/concepts/精灵/流程_从洛克WIKI获取精灵数据.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "流程_从洛克WIKI获取精灵数据 的反向链接列表"
+            }
+          },
+          {
+            "id": "14964cb6dc5c0699",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/concepts/精灵/流程_从洛克WIKI获取精灵数据.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "流程_从洛克WIKI获取精灵数据 的出链列表"
+            }
+          },
+          {
+            "id": "9f22c161f4b8dca8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f2afe17cb63d6ced",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "b9ae317cafb93ef8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/concepts/精灵/流程_从洛克WIKI获取精灵数据.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "流程_从洛克WIKI获取精灵数据 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "f1593bc643705386",
+  "lastOpenFiles": [
+    "wiki/concepts/精灵/流程_从洛克WIKI获取精灵数据.md",
+    "wiki/concepts/精灵/实体_雪影娃娃.md",
+    "wiki/concepts/精灵/实体_火神.md",
+    "wiki/concepts/精灵",
+    "wiki/concepts",
+    "wiki/index.md",
+    "wiki/log.md",
+    "wiki/sources/仪表盘数据库冷备导致主从延迟.md",
+    "wiki/concepts/概念_数据库冷备与备份锁.md",
+    "wiki/concepts/概念_主从延迟.md",
+    "wiki/concepts/概念_MySQL半同步复制.md",
+    "wiki/sources",
+    "wiki/log.md",
+    "wiki/index.md",
+    "wiki/concepts",
+    "wiki",
+    "raw/仪表盘数据库冷备导致主从延迟.md",
+    "raw",
+    "raw/0520.md",
+    "raw/0514与浮云老马合作.md",
+    "wiki/concepts/战术_冗余进攻.md",
+    "raw/属性克制和抵抗.md",
+    "raw/孵蛋记录.md",
+    "raw/不要小看我和松鼠的羁绊啊.md",
+    "raw/视频制作基础.md",
+    "raw/未命名.md",
+    "wiki/overview/总览_雪影松鼠队.md",
+    "未命名.canvas",
+    "wiki/sources/来源_雪影vs黑猫巫师.md",
+    "wiki/sources/来源_雪影vs音速犬.md",
+    "wiki/sources/来源_雪影vs蹦床松鼠.md",
+    "wiki/sources/来源_雪影vs白金独角兽.md",
+    "wiki/sources/来源_雪影vs星陨队.md",
+    "wiki/overview",
+    "wiki/incubation",
+    "wiki/entities",
+    "Attachments/仪表盘数据库主备架构.png",
+    "Attachments/Pasted image 20260410195828.png",
+    "Attachments/Pasted image 20260410195804.png",
+    "Attachments/Pasted image 20260410195715.png",
+    "Attachments/Pasted image 20260410195644.png",
+    "Attachments",
+    "Attachments/修改会议邀请人优化.png"
+  ]
+}
