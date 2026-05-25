@@ -185,6 +185,8 @@
   },
   "active": "d0c3972040b7eab6",
   "lastOpenFiles": [
+    "wiki/concepts/精灵/实体_巨鼓象.md",
+    "wiki/concepts/精灵/实体_巨鼓象.md.go",
     "wiki/concepts/技能/实体_赤子之心.md",
     "wiki/concepts/技能/实体_击鼓传花.md",
     "wiki/concepts/技能/实体_冰墙.md",
@@ -211,7 +213,6 @@
     "wiki/concepts/属性/实体_属性_虫.md",
     "wiki/concepts/属性/实体_属性_萌.md",
     "wiki/concepts/属性/实体_属性_翼.md",
-    "wiki/concepts/属性/实体_属性_毒.md",
     "wiki/concepts/属性",
     "wiki/concepts/技能",
     "Attachments/Pasted image 20260410195644.png",
@@ -225,7 +226,6 @@
     "wiki",
     "raw",
     "未命名.canvas",
-    "wiki/overview",
     "Attachments/仪表盘数据库主备架构.png",
     "Attachments/修改会议邀请人优化.png"
   ]
