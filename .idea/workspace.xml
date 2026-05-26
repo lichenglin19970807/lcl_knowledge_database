@@ -5,14 +5,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce5b5f86-14e9-49af-b1d5-f4c9d02f7560" name="更改" comment="精灵技能补充">
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_一拳.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_俯冲猛击.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_冥想.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_冬至.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_冰爪.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_冲撞.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_双响炮.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_反击拳.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_吞噬.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_听桥.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_嗜痛.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_嘲弄.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_回旋风暴.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_地刺.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_幽灵爆发.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_影袭.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_恐吓.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_折射.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_抽枝.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_斩断.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_极寒领域.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_毒液渗透.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_淬火.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_火焰切割.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_火焰护盾.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_炎打.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_焚烧烙印.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_爆米花爆破.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_球状闪电.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_纤维化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_蝙蝠.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_贮藏.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_远程访问.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_钢铁洪流.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_错乱.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_闪燃.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_防御.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_雷暴.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_高温回火.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_黑手.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_齿轮扭矩.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_龙之利爪.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_龙卷风.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_龙吟.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wiki/concepts/精灵/实体_利灯鱼.md" beforeDir="false" afterPath="$PROJECT_DIR$/wiki/concepts/精灵/实体_利灯鱼.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wiki/concepts/精灵/实体_加油蟹.md" beforeDir="false" afterPath="$PROJECT_DIR$/wiki/concepts/精灵/实体_加油蟹.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wiki/concepts/精灵/实体_化蝶.md" beforeDir="false" afterPath="$PROJECT_DIR$/wiki/concepts/精灵/实体_化蝶.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wiki/concepts/精灵/实体_千棘盔.md" beforeDir="false" afterPath="$PROJECT_DIR$/wiki/concepts/精灵/实体_千棘盔.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wiki/concepts/精灵/实体_圣剑X.md" beforeDir="false" afterPath="$PROJECT_DIR$/wiki/concepts/精灵/实体_圣剑X.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wiki/concepts/精灵/实体_圣羽翼王.md" beforeDir="false" afterPath="$PROJECT_DIR$/wiki/concepts/精灵/实体_圣羽翼王.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wiki/concepts/精灵/实体_寂灭骨龙.md" beforeDir="false" afterPath="$PROJECT_DIR$/wiki/concepts/精灵/实体_寂灭骨龙.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wiki/concepts/精灵/实体_白金独角兽.md" beforeDir="false" afterPath="$PROJECT_DIR$/wiki/concepts/精灵/实体_白金独角兽.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wiki/concepts/精灵/实体_皇家狮鹫.md" beforeDir="false" afterPath="$PROJECT_DIR$/wiki/concepts/精灵/实体_皇家狮鹫.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
