@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce5b5f86-14e9-49af-b1d5-f4c9d02f7560" name="更改" comment="精灵补充">
+    <list default="true" id="ce5b5f86-14e9-49af-b1d5-f4c9d02f7560" name="更改" comment="精灵技能补充">
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wiki/concepts/精灵/实体_兽花蕾.md" beforeDir="false" afterPath="$PROJECT_DIR$/wiki/concepts/精灵/实体_兽花蕾.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wiki/concepts/精灵/实体_冰钻布鲁斯.md" beforeDir="false" afterPath="$PROJECT_DIR$/wiki/concepts/精灵/实体_冰钻布鲁斯.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wiki/concepts/精灵/实体_利灯鱼.md" beforeDir="false" afterPath="$PROJECT_DIR$/wiki/concepts/精灵/实体_利灯鱼.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wiki/concepts/精灵/实体_加油蟹.md" beforeDir="false" afterPath="$PROJECT_DIR$/wiki/concepts/精灵/实体_加油蟹.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wiki/concepts/精灵/实体_化蝶.md" beforeDir="false" afterPath="$PROJECT_DIR$/wiki/concepts/精灵/实体_化蝶.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wiki/concepts/精灵/实体_千棘盔.md" beforeDir="false" afterPath="$PROJECT_DIR$/wiki/concepts/精灵/实体_千棘盔.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wiki/concepts/精灵/实体_圣剑X.md" beforeDir="false" afterPath="$PROJECT_DIR$/wiki/concepts/精灵/实体_圣剑X.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wiki/concepts/精灵/实体_圣羽翼王.md" beforeDir="false" afterPath="$PROJECT_DIR$/wiki/concepts/精灵/实体_圣羽翼王.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wiki/concepts/精灵/实体_寂灭骨龙.md" beforeDir="false" afterPath="$PROJECT_DIR$/wiki/concepts/精灵/实体_寂灭骨龙.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +129,8 @@
     <MESSAGE value="火神常用技能" />
     <MESSAGE value="常用技能补充" />
     <MESSAGE value="精灵补充" />
-    <option name="LAST_COMMIT_MESSAGE" value="精灵补充" />
+    <MESSAGE value="精灵技能补充" />
+    <option name="LAST_COMMIT_MESSAGE" value="精灵技能补充" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
