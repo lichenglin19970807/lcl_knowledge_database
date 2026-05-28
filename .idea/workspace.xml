@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce5b5f86-14e9-49af-b1d5-f4c9d02f7560" name="更改" comment="精灵技能补充" />
+    <list default="true" id="ce5b5f86-14e9-49af-b1d5-f4c9d02f7560" name="更改" comment="阵容分析">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +124,8 @@
     <MESSAGE value="常用技能补充" />
     <MESSAGE value="精灵补充" />
     <MESSAGE value="精灵技能补充" />
-    <option name="LAST_COMMIT_MESSAGE" value="精灵技能补充" />
+    <MESSAGE value="阵容分析" />
+    <option name="LAST_COMMIT_MESSAGE" value="阵容分析" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
