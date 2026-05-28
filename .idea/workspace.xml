@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce5b5f86-14e9-49af-b1d5-f4c9d02f7560" name="更改" comment="阵容分析">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_借用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_洗礼.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_离子火花.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_裂石.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki/concepts/技能/技能_过载回路.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wiki/concepts/精灵/实体_爵士鹿.md" beforeDir="false" afterPath="$PROJECT_DIR$/wiki/concepts/精灵/实体_爵士鹿.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wiki/concepts/精灵/实体_锤头鹳.md" beforeDir="false" afterPath="$PROJECT_DIR$/wiki/concepts/精灵/实体_锤头鹳.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
