@@ -11,10 +11,14 @@
             "id": "f1593bc643705386",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "阵容分析/我的阵容/鹿象轮转队.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "鹿象轮转队"
             }
           }
         ]
@@ -179,8 +183,20 @@
       "bases:新建数据库": false
     }
   },
-  "active": "d0c3972040b7eab6",
+  "active": "f1593bc643705386",
   "lastOpenFiles": [
+    "Attachments/一图.jpg",
+    "Attachments/微信图片_20260531213601_25_175.jpg",
+    "Attachments/img.png",
+    "Attachments/轮转位战术详解.png",
+    "Attachments/预设2.png",
+    "阵容分析/我的阵容/img.png",
+    "Attachments/进攻面2.png",
+    "Attachments/进攻面.png",
+    "Attachments/互补1.png",
+    "Attachments/电机械互补.png",
+    "Attachments/电地互补2.png",
+    "阵容分析/我的阵容/鹿象轮转队口播.md",
     "wiki/concepts/技能/技能_顶端优势.md",
     "wiki/concepts/技能/技能_撕咬.md",
     "wiki/concepts/精灵/实体_爵士鹿.md",
@@ -207,22 +223,14 @@
     "wiki/concepts/技能/技能_磁暴.md",
     "wiki/concepts/技能/技能_燃尽.md",
     "wiki/concepts/技能/技能_毒囊.md",
-    "wiki/concepts/技能/技能_阻断.md",
-    "wiki/concepts/技能/技能_爆冲.md",
     "wiki/concepts/精灵",
     "wiki/concepts/技能",
     "wiki/concepts/战术",
     "wiki/concepts/属性",
-    "Attachments/仪表盘数据库主备架构.png",
     "wiki/concepts/精灵/实体_巨鼓象.md.go",
-    "Attachments/Pasted image 20260410195644.png",
-    "Attachments/Pasted image 20260410195715.png",
-    "Attachments/Pasted image 20260410195804.png",
-    "Attachments/Pasted image 20260410195828.png",
     "wiki/concepts",
     "wiki/sources",
     "wiki/concepts",
-    "未命名.canvas",
-    "Attachments/修改会议邀请人优化.png"
+    "未命名.canvas"
   ]
 }
