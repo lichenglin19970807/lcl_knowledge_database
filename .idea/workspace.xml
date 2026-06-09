@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce5b5f86-14e9-49af-b1d5-f4c9d02f7560" name="更改" comment="鹿象轮转">
-      <change afterPath="$PROJECT_DIR$/阵容分析/我的阵容/巨鼓象内战注意事项.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/阵容分析/我的阵容/影狸的各种用法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/阵容分析/我的阵容/数值平衡队.md" afterDir="false" />
+    <list default="true" id="ce5b5f86-14e9-49af-b1d5-f4c9d02f7560" name="更改" comment="1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wiki/concepts/精灵/实体_岚鸟.md" beforeDir="false" afterPath="$PROJECT_DIR$/wiki/concepts/精灵/实体_岚鸟.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/阵容分析/愿力平衡队/我的阵容.md" beforeDir="false" afterPath="$PROJECT_DIR$/阵容分析/愿力平衡队/我的阵容.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +123,6 @@
     <MESSAGE value="pvp战术概念" />
     <MESSAGE value="新的主力阵容" />
     <MESSAGE value="赤子之心蹦床松鼠进攻轴" />
-    <MESSAGE value="1" />
     <MESSAGE value="火神常用技能" />
     <MESSAGE value="常用技能补充" />
     <MESSAGE value="精灵补充" />
@@ -134,7 +131,8 @@
     <MESSAGE value="补充" />
     <MESSAGE value="三角形战术" />
     <MESSAGE value="鹿象轮转" />
-    <option name="LAST_COMMIT_MESSAGE" value="鹿象轮转" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
